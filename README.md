@@ -12,6 +12,8 @@ Curation of cool stuff
 1. [Laboratorio Espresso](https://goo.gl/maps/jLJT6tcYNyN2)
 2. [Gordon Street Coffee](https://goo.gl/maps/uFhiyxmkFbz)
 3. [Thompson Central](https://goo.gl/maps/1pXXguy89w22)
+* [Great blog on Glasgow coffee spots](http://cupsof5.com/2018/05/19/the-glasgow-coffee-power-rankings-may-18/)
+* [Great list of Glasgow coffee spots](https://europeancoffeetrip.com/top-ten-cafes-of-glasgow/)
 
 ### Ruby
 1. [Ruby cheat-sheet](http://overapi.com/ruby)
