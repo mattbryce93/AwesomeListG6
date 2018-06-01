@@ -25,6 +25,7 @@ Curation of cool stuff
 ### SQL
 1. [Postgresql Docs](https://www.postgresql.org/docs/10/static/index.html)
 2. [SQL cheat sheet](http://www.cheat-sheets.org/sites/sql.su/)
+3. [SQL joins](https://files.slack.com/files-pri/T0TN401HD-FAZG34JLA/visual_sql_joins_orig.jpg)
 
 ### JAVA
 1. [The bible(apparently) on Java coding style](http://www.oracle.com/technetwork/java/codeconventions-150003.pdf)
