@@ -1,5 +1,5 @@
 # Awesome list G6
-Curation of cool stuff
+Curation of cool stuff, do your own research when installing and using programs.
 
 ### Food
 1. [Falafel 2 go, good cheap Falafel](https://goo.gl/maps/v1Hq49XDpam)
@@ -23,9 +23,13 @@ Curation of cool stuff
 ### SQL
 1. [Postgresql Docs](https://www.postgresql.org/docs/10/static/index.html)
 2. [SQL cheat sheet](http://www.cheat-sheets.org/sites/sql.su/)
+3. [Postgres GUI](http://www.psequel.com/)
 
 ### JAVA
 1. [The bible(apparently) on Java coding style](http://www.oracle.com/technetwork/java/codeconventions-150003.pdf)
+
+### JOBS
+1. Looking for dev jobs in Edinburgh? [Ross has you covered](https://gist.github.com/rossghill/3aceb0b18c2efa097538594ef277df21)
 
 ### Python
 1. [Want to learn Python 3](https://docs.python.org/3/tutorial/)
@@ -47,5 +51,7 @@ Curation of cool stuff
 3. [A cracking resource on various web dev stuff](https://www.w3schools.com/)
 
 
-### Other Languages
+### Other Languages/Scientific Stuff
 1. [Haskell: an academic language](http://learnyouahaskell.com/introduction)
+2. [Matlab and R](https://software-carpentry.org/lessons/)
+3. A good resource for mathematics and science. Left as a link as upkeep of the site is a hit or a miss.  https://sites.google.com/site/scienceandmathguide/ 
