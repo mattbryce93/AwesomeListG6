@@ -6,7 +6,9 @@ Curation of cool stuff, do your own research when installing and using programs.
 2. [Renfield cafe, good rolls reasonably priced](https://goo.gl/maps/mgvVtcmNuK12)
 3. [£4 cash only take-away Giros(Kebab meat, salad, chips, wrap)](https://goo.gl/maps/JL9BLzAWSQE2)
 4. [Probably the best pizza in toon](https://goo.gl/maps/ynD687Vqyux)
-5. [Best roll in town](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+5. [Glasgow's greatest sandwich/bagel/panini selection](https://goo.gl/maps/uMnuvkjgEps)
+6. [Two curries, chips and a can of juice for £3.90 - bit of a walk though](https://goo.gl/maps/3vTjCjwPiey)
+7. [Best roll in town](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 ### Coffee
 1. [Laboratorio Espresso](https://goo.gl/maps/jLJT6tcYNyN2)
@@ -23,7 +25,11 @@ Curation of cool stuff, do your own research when installing and using programs.
 ### SQL
 1. [Postgresql Docs](https://www.postgresql.org/docs/10/static/index.html)
 2. [SQL cheat sheet](http://www.cheat-sheets.org/sites/sql.su/)
+<<<<<<< HEAD
 3. [Postgres GUI](http://www.psequel.com/)
+=======
+3. [SQL joins](https://files.slack.com/files-pri/T0TN401HD-FAZG34JLA/visual_sql_joins_orig.jpg)
+>>>>>>> 19b63fe648aa6ee1c23303d664f5540fe6f9dabb
 
 ### JAVA
 1. [The bible(apparently) on Java coding style](http://www.oracle.com/technetwork/java/codeconventions-150003.pdf)
