@@ -25,11 +25,8 @@ Curation of cool stuff, do your own research when installing and using programs.
 ### SQL
 1. [Postgresql Docs](https://www.postgresql.org/docs/10/static/index.html)
 2. [SQL cheat sheet](http://www.cheat-sheets.org/sites/sql.su/)
-<<<<<<< HEAD
-3. [Postgres GUI](http://www.psequel.com/)
-=======
 3. [SQL joins](https://files.slack.com/files-pri/T0TN401HD-FAZG34JLA/visual_sql_joins_orig.jpg)
->>>>>>> 19b63fe648aa6ee1c23303d664f5540fe6f9dabb
+4. [Postgres GUI](http://www.psequel.com/)
 
 ### JAVA
 1. [The bible(apparently) on Java coding style](http://www.oracle.com/technetwork/java/codeconventions-150003.pdf)
@@ -60,4 +57,4 @@ Curation of cool stuff, do your own research when installing and using programs.
 ### Other Languages/Scientific Stuff
 1. [Haskell: an academic language](http://learnyouahaskell.com/introduction)
 2. [Matlab and R](https://software-carpentry.org/lessons/)
-3. A good resource for mathematics and science. Left as a link as upkeep of the site is a hit or a miss.  https://sites.google.com/site/scienceandmathguide/ 
+3. A good resource for mathematics and science. Left as a link as upkeep of the site is a hit or a miss.  https://sites.google.com/site/scienceandmathguide/
