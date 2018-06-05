@@ -52,6 +52,7 @@ Curation of cool stuff, do your own research when installing and using programs.
 1. Need awesome looking royalty free pics? [Try Pexels](https://www.pexels.com/)
 2. [Need an awesome looking website template](https://getbootstrap.com/)
 3. [A cracking resource on various web dev stuff](https://www.w3schools.com/)
+4. [A great website for high quality icons](https://jam-icons.com/)
 
 
 ### Other Languages/Scientific Stuff
