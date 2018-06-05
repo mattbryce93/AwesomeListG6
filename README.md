@@ -9,6 +9,7 @@ Curation of cool stuff, do your own research when installing and using programs.
 5. [Glasgow's greatest sandwich/bagel/panini selection](https://goo.gl/maps/uMnuvkjgEps)
 6. [Two curries, chips and a can of juice for £3.90 - bit of a walk though](https://goo.gl/maps/3vTjCjwPiey)
 7. [Best roll in town](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+8. [Bloc, heavy good meal deals every day. Also a solid boozer.](https://www.bloc.ru/daily-deals)
 
 ### Coffee
 1. [Laboratorio Espresso](https://goo.gl/maps/jLJT6tcYNyN2)
@@ -16,6 +17,12 @@ Curation of cool stuff, do your own research when installing and using programs.
 3. [Thompson Central](https://goo.gl/maps/1pXXguy89w22)
 * [Great blog on Glasgow coffee spots](http://cupsof5.com/2018/05/19/the-glasgow-coffee-power-rankings-may-18/)
 * [Great list of Glasgow coffee spots](https://europeancoffeetrip.com/top-ten-cafes-of-glasgow/)
+
+### Pubs
+
+1. [Jacksons: cheap, nearby, guid](https://goo.gl/maps/PkAvBStDg6m)
+2. [Malones: nearby, has a roof terrace](https://goo.gl/maps/8pdb4gSUe5o)
+3. [Howlin' Wolf: 2for1 pizzas, bluesy, and you guessed it: nearby](https://goo.gl/maps/BkQs47LEVht)
 
 ### Ruby
 1. [Ruby cheat-sheet](http://overapi.com/ruby)
@@ -60,3 +67,7 @@ Curation of cool stuff, do your own research when installing and using programs.
 2. [Matlab and R](https://software-carpentry.org/lessons/)
 3. A good resource for mathematics and science. Left as a link as upkeep of the site is a hit or a miss.  https://sites.google.com/site/scienceandmathguide/
 4. [Enjoy algorithms, try your hand at low latency investment algorithms!](https://www.quantopian.com/)
+
+
+### Misc
+1. [A nice relaxing website: submit your own nice things!](https://nicelunchthings.tumblr.com/)
