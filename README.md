@@ -62,6 +62,7 @@ Curation of cool stuff, do your own research when installing and using programs.
 4. [A great website for high quality icons](https://jam-icons.com/)
 5. "This is your new bible" J. McCollum [MDN](https://developer.mozilla.org/en-US/)
 6. Great resource on css: [css tricks](https://css-tricks.com/)
+7. [Emmet plugin cheat sheet](https://docs.emmet.io/cheat-sheet/)
 
 
 ### Other Languages/Scientific Stuff
