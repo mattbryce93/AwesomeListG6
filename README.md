@@ -45,6 +45,7 @@ Curation of cool stuff, do your own research when installing and using programs.
 2. Want to learn [Mathematical and Scientific computing with Python](https://www.scipy.org/getting-started.html)
 3. Want to learn a [web framework for python](http://www.tangowithdjango.com/)
 4. [How to automate the boring stuff](https://automatetheboringstuff.com/#toc)
+5. [Enjoy algorithms, try your hand at low latency investment algorithms!](https://www.quantopian.com/)
 
 ### Software Development Literature
 1. [Interesting article on productivity and development](http://www.cs.nott.ac.uk/~pszcah/G51ISS/Documents/NoSilverBullet.html)
@@ -67,7 +68,7 @@ Curation of cool stuff, do your own research when installing and using programs.
 1. [Haskell: an academic language](http://learnyouahaskell.com/introduction)
 2. [Matlab and R](https://software-carpentry.org/lessons/)
 3. A good resource for mathematics and science. Left as a link as upkeep of the site is a hit or a miss.  https://sites.google.com/site/scienceandmathguide/
-4. [Enjoy algorithms, try your hand at low latency investment algorithms!](https://www.quantopian.com/)
+
 
 
 ### Misc
