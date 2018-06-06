@@ -19,7 +19,6 @@ Curation of cool stuff, do your own research when installing and using programs.
 * [Great list of Glasgow coffee spots](https://europeancoffeetrip.com/top-ten-cafes-of-glasgow/)
 
 ### Pubs
-
 1. [Jacksons: cheap, nearby, guid](https://goo.gl/maps/PkAvBStDg6m)
 2. [Malones: nearby, has a roof terrace](https://goo.gl/maps/8pdb4gSUe5o)
 3. [Howlin' Wolf: 2for1 pizzas, bluesy, and you guessed it: nearby](https://goo.gl/maps/BkQs47LEVht)
@@ -60,6 +59,8 @@ Curation of cool stuff, do your own research when installing and using programs.
 2. [Need an awesome looking website template](https://getbootstrap.com/)
 3. [A cracking resource on various web dev stuff](https://www.w3schools.com/)
 4. [A great website for high quality icons](https://jam-icons.com/)
+5. "This is your new bible" J. McCollum [MDN](https://developer.mozilla.org/en-US/)
+6. Great resource on css: [css tricks](https://css-tricks.com/)
 
 
 ### Other Languages/Scientific Stuff
