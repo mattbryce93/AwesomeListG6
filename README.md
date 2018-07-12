@@ -36,6 +36,7 @@ Curation of cool stuff, do your own research when installing and using programs.
 
 ### JAVA
 1. [The bible(apparently) on Java coding style](http://www.oracle.com/technetwork/java/codeconventions-150003.pdf)
+2. [Useful Spark debugging tools](https://github.com/perwendel/spark-debug-tools)
 
 ### JOBS
 1. Looking for dev jobs in Edinburgh? [Ross has you covered](https://gist.github.com/rossghill/3aceb0b18c2efa097538594ef277df21)
