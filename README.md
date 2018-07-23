@@ -64,6 +64,7 @@ Curation of cool stuff, do your own research when installing and using programs.
 5. "This is your new bible" J. McCollum [MDN](https://developer.mozilla.org/en-US/)
 6. Great resource on css: [css tricks](https://css-tricks.com/)
 7. [Emmet plugin cheat sheet](https://docs.emmet.io/cheat-sheet/)
+8. [Massive Documentation resource list](https://devdocs.io/settings)
 
 
 ### Other Languages/Scientific Stuff
