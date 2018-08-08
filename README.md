@@ -45,7 +45,11 @@ Curation of cool stuff, do your own research when installing and using programs.
 ### JS
 1. [NPM](https://www.npmjs.com/)
 2. [Public Apis](https://github.com/toddmotto/public-apis)
-3. Remember, governments have loads of apis available. 
+3. Remember, governments have loads of apis available.
+4. [Express JS](https://expressjs.com/)
+5. [Webpack](https://webpack.js.org/concepts/)
+6. [No-demon](https://nodemon.io/)
+7. [Mocha testing](https://mochajs.org/)
 
 ### JOBS
 1. Looking for dev jobs in Edinburgh? [Ross has you covered](https://gist.github.com/rossghill/3aceb0b18c2efa097538594ef277df21)
