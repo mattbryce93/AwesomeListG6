@@ -28,14 +28,21 @@ Curation of cool stuff, do your own research when installing and using programs.
 2. [Ruby enumerables list from docs](https://ruby-doc.org/core-2.5.1/Enumerable.html)
 3. [Ruby style guide to make your code look understandable and readable](https://github.com/bbatsov/ruby-style-guide#naming)
 
-### SQL
+### Databases
 1. [Postgresql Docs](https://www.postgresql.org/docs/10/static/index.html)
 2. [SQL cheat sheet](http://www.cheat-sheets.org/sites/sql.su/)
 3. [SQL joins](https://files.slack.com/files-pri/T0TN401HD-FAZG34JLA/visual_sql_joins_orig.jpg)
 4. [Postgres GUI](http://www.psequel.com/)
+5. [Mongodb CC's NoSQL db]
+6. [Mongoose, Lousie mentioned this to extend Mongo functionality]
+7. [Mlab, free hosting for api up to 0.5gb]
 
 ### JAVA
 1. [The bible(apparently) on Java coding style](http://www.oracle.com/technetwork/java/codeconventions-150003.pdf)
+2. [Spark]
+
+### JS
+1.
 
 ### JOBS
 1. Looking for dev jobs in Edinburgh? [Ross has you covered](https://gist.github.com/rossghill/3aceb0b18c2efa097538594ef277df21)
