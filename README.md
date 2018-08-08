@@ -39,10 +39,7 @@ Curation of cool stuff, do your own research when installing and using programs.
 
 ### JAVA
 1. [The bible(apparently) on Java coding style](http://www.oracle.com/technetwork/java/codeconventions-150003.pdf)
-2. [Spark]
-
-### JS
-1.
+2. [Useful Spark debugging tools](https://github.com/perwendel/spark-debug-tools)
 
 ### JOBS
 1. Looking for dev jobs in Edinburgh? [Ross has you covered](https://gist.github.com/rossghill/3aceb0b18c2efa097538594ef277df21)
@@ -69,6 +66,8 @@ Curation of cool stuff, do your own research when installing and using programs.
 4. [A great website for high quality icons](https://jam-icons.com/)
 5. "This is your new bible" J. McCollum [MDN](https://developer.mozilla.org/en-US/)
 6. Great resource on css: [css tricks](https://css-tricks.com/)
+7. [Emmet plugin cheat sheet](https://docs.emmet.io/cheat-sheet/)
+8. [Massive Documentation resource list](https://devdocs.io/settings)
 
 
 ### Other Languages/Scientific Stuff
