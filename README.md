@@ -28,15 +28,28 @@ Curation of cool stuff, do your own research when installing and using programs.
 2. [Ruby enumerables list from docs](https://ruby-doc.org/core-2.5.1/Enumerable.html)
 3. [Ruby style guide to make your code look understandable and readable](https://github.com/bbatsov/ruby-style-guide#naming)
 
-### SQL
+### Databases
 1. [Postgresql Docs](https://www.postgresql.org/docs/10/static/index.html)
 2. [SQL cheat sheet](http://www.cheat-sheets.org/sites/sql.su/)
 3. [SQL joins](https://files.slack.com/files-pri/T0TN401HD-FAZG34JLA/visual_sql_joins_orig.jpg)
 4. [Postgres GUI](http://www.psequel.com/)
+5. [Mongodb NoSQL db](https://docs.mongodb.com/manual/)
+6. [Mongoose, Lousie mentioned this to extend Mongo functionality](http://mongoosejs.com/docs/)
+7. [Mlab, free hosting for api up to 0.5gb](https://mlab.com/)
 
 ### JAVA
 1. [The bible(apparently) on Java coding style](http://www.oracle.com/technetwork/java/codeconventions-150003.pdf)
 2. [Useful Spark debugging tools](https://github.com/perwendel/spark-debug-tools)
+3. [Spark](http://sparkjava.com/)
+
+### JS
+1. [NPM](https://www.npmjs.com/)
+2. [Public Apis](https://github.com/toddmotto/public-apis)
+3. Remember, governments have loads of apis available.
+4. [Express JS](https://expressjs.com/)
+5. [Webpack](https://webpack.js.org/concepts/)
+6. [No-demon](https://nodemon.io/)
+7. [Mocha testing](https://mochajs.org/)
 
 ### JOBS
 1. Looking for dev jobs in Edinburgh? [Ross has you covered](https://gist.github.com/rossghill/3aceb0b18c2efa097538594ef277df21)
@@ -47,11 +60,13 @@ Curation of cool stuff, do your own research when installing and using programs.
 3. Want to learn a [web framework for python](http://www.tangowithdjango.com/)
 4. [How to automate the boring stuff](https://automatetheboringstuff.com/#toc)
 5. [Enjoy algorithms, try your hand at low latency investment algorithms!](https://www.quantopian.com/)
+6. [Flask, python's Sinatra or spark](http://flask.pocoo.org/)
 
 ### Software Development Literature
 1. [Interesting article on productivity and development](http://www.cs.nott.ac.uk/~pszcah/G51ISS/Documents/NoSilverBullet.html)
 2. [Cracking book on going from journeyman to master](https://www.nceclusters.no/globalassets/filer/nce/diverse/the-pragmatic-programmer.pdf)
 3. WTF is [linear algebra](http://www.math.nagoya-u.ac.jp/~richard/teaching/f2014/Lin_alg_Lang.pdf)?
+4. [Monzo's engineering progression framework](https://eng-progression.monzo.com/)
 
 ### Machine Learning
 * [Want to learn AI?](http://www.fast.ai/)
@@ -65,12 +80,21 @@ Curation of cool stuff, do your own research when installing and using programs.
 6. Great resource on css: [css tricks](https://css-tricks.com/)
 7. [Emmet plugin cheat sheet](https://docs.emmet.io/cheat-sheet/)
 8. [Massive Documentation resource list](https://devdocs.io/settings)
+9. [css grid garden game](https://cssgridgarden.com/)
+10. [Route tester](https://insomnia.rest/changelog/4.0.13/)
+11. [Source tree git manager](https://www.sourcetreeapp.com/)
+12. [test your site speed](https://testmysite.withgoogle.com/intl/en-gb);
+13. Some CSS links:
+  * [Enjoy CSS](http://enjoycss.com/)
+  * [CSS Generator](http://css3generator.com/)
+  * [Gradient Animator](https://www.gradient-animator.com/)
 
 
 ### Other Languages/Scientific Stuff
 1. [Haskell: an academic language](http://learnyouahaskell.com/introduction)
 2. [Matlab and R](https://software-carpentry.org/lessons/)
 3. A good resource for mathematics and science. Left as a link as upkeep of the site is a hit or a miss.  https://sites.google.com/site/scienceandmathguide/
+4. [cloud computing training](https://www.hashicorp.com/)
 
 
 
